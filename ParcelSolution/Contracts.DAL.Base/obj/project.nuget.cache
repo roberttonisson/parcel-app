@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r0Vxl/L16KHebL+sJmXdyIj7xHcvO5S4UFJb5eB97ukDRbAx5wUphLMUOqpZWK0VR4ur0t+agXYIfCmP/1P0Fg==",
+  "dgSpecHash": "AgUDlmU+ZpAaYmzU2jwtBqtllJxKSfk/IlBQOPrCCcCsq9B/qODUFlakpzL7TjiiqGnQVqnwF1iDQaHAs7LmLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Contracts.DAL.Base\\Contracts.DAL.Base.csproj",
+  "projectFilePath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Contracts.DAL.Base\\Contracts.DAL.Base.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.4\\microsoft.aspnetcore.cryptography.keyderivation.5.0.4.nupkg.sha512",

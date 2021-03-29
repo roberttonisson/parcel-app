@@ -1636,11 +1636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\BLL.App\\BLL.App.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\BLL.App\\BLL.App.csproj",
       "projectName": "BLL.App",
-      "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\BLL.App\\BLL.App.csproj",
+      "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\BLL.App\\BLL.App.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\BLL.App\\obj\\",
+      "outputPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\BLL.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1657,23 +1657,23 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\BLL.App.DTO\\BLL.App.DTO.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\BLL.App.DTO\\BLL.App.DTO.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\BLL.App.DTO\\BLL.App.DTO.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\BLL.App.DTO\\BLL.App.DTO.csproj"
             },
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\BLL.Base\\BLL.Base.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\BLL.Base\\BLL.Base.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\BLL.Base\\BLL.Base.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\BLL.Base\\BLL.Base.csproj"
             },
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Contracts.BLL.App\\Contracts.BLL.App.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Contracts.BLL.App\\Contracts.BLL.App.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Contracts.BLL.App\\Contracts.BLL.App.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Contracts.BLL.App\\Contracts.BLL.App.csproj"
             },
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Contracts.DAL.App\\Contracts.DAL.App.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Contracts.DAL.App\\Contracts.DAL.App.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Contracts.DAL.App\\Contracts.DAL.App.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Contracts.DAL.App\\Contracts.DAL.App.csproj"
             },
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.App.DTO\\DAL.App.DTO.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.App.DTO\\DAL.App.DTO.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.App.DTO\\DAL.App.DTO.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.App.DTO\\DAL.App.DTO.csproj"
             },
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.Base\\DAL.Base.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.Base\\DAL.Base.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.Base\\DAL.Base.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.Base\\DAL.Base.csproj"
             }
           }
         }

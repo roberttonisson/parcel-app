@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "li/icvRSaQd35t7kB8vO5D/RW8lnQko6wFfxJ1ZGKOjyqCBlI/OyfQdzDT8wfyqs8XJHzpTakZWpO9827sIVxA==",
+  "dgSpecHash": "q9ca02m8m3m9+VjH8SprT9KOpH2ltJVtHl0af50DorcfyIqaHB5KaHJ/CCtOGXG2kfEIpDRZFfL4vWFZq6bkmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.Base.EF\\DAL.Base.EF.csproj",
+  "projectFilePath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.Base.EF\\DAL.Base.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rober\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",

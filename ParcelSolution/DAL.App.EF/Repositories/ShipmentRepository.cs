@@ -25,12 +25,12 @@ namespace DAL.App.EF.Repositories
             var query = PrepareQuery(userId, noTracking);
             query = query
                 .Include(s => s.ShipmentBags!)
-                    .ThenInclude(sb => sb.Bag)
-                        .ThenInclude(b => b!.ParcelBags)
-                            .ThenInclude(pb => pb.Parcel)
+                .ThenInclude(sb => sb.Bag)
+                .ThenInclude(b => b!.ParcelBags)
+                .ThenInclude(pb => pb.Parcel)
                 .Include(s => s.ShipmentBags!)
-                    .ThenInclude(sb => sb.Bag)
-                        .ThenInclude(b => b!.LetterBag);
+                .ThenInclude(sb => sb.Bag)
+                .ThenInclude(b => b!.LetterBag);
             var domainEntities = await query.ToListAsync();
             var result = domainEntities.Select(e => Mapper.Map(e));
             return result;
@@ -41,6 +41,7 @@ namespace DAL.App.EF.Repositories
             var query = PrepareQuery(userId, noTracking);
             query = query
                 .Where(s => s.ShipmentNumber == id)
+                .AsSplitQuery()
                 .Include(s => s.ShipmentBags!)
                 .ThenInclude(sb => sb.Bag)
                 .ThenInclude(b => b!.ParcelBags)
@@ -48,6 +49,7 @@ namespace DAL.App.EF.Repositories
                 .Include(s => s.ShipmentBags!)
                 .ThenInclude(sb => sb.Bag)
                 .ThenInclude(b => b!.LetterBag);
+                
             var shipment = await query.FirstOrDefaultAsync();
             var result = Mapper.Map(shipment);
             return result;

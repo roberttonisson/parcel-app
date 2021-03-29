@@ -1505,11 +1505,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\BLL.App.DTO\\BLL.App.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\BLL.App.DTO\\BLL.App.DTO.csproj",
       "projectName": "BLL.App.DTO",
-      "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\BLL.App.DTO\\BLL.App.DTO.csproj",
+      "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\BLL.App.DTO\\BLL.App.DTO.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\BLL.App.DTO\\obj\\",
+      "outputPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\BLL.App.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1526,11 +1526,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Domain.Base\\Domain.Base.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Domain.Base\\Domain.Base.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Domain.Base\\Domain.Base.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Domain.Base\\Domain.Base.csproj"
             },
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Extensions\\Extensions.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Extensions\\Extensions.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Extensions\\Extensions.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Extensions\\Extensions.csproj"
             }
           }
         }

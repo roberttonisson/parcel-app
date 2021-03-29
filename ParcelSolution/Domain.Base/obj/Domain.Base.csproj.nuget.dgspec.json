@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Domain.Base\\Domain.Base.csproj": {}
+    "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Domain.Base\\Domain.Base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Domain.Base\\Domain.Base.csproj": {
+    "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Domain.Base\\Domain.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Domain.Base\\Domain.Base.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Domain.Base\\Domain.Base.csproj",
         "projectName": "Domain.Base",
-        "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Domain.Base\\Domain.Base.csproj",
+        "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Domain.Base\\Domain.Base.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Domain.Base\\obj\\",
+        "outputPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Domain.Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",

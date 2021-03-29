@@ -6419,11 +6419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.App.EF\\DAL.App.EF.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.App.EF\\DAL.App.EF.csproj",
       "projectName": "DAL.App.EF",
-      "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.App.EF\\DAL.App.EF.csproj",
+      "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.App.EF\\DAL.App.EF.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.App.EF\\obj\\",
+      "outputPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.App.EF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6440,17 +6440,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Contracts.DAL.App\\Contracts.DAL.App.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Contracts.DAL.App\\Contracts.DAL.App.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Contracts.DAL.App\\Contracts.DAL.App.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Contracts.DAL.App\\Contracts.DAL.App.csproj"
             },
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.App.DTO\\DAL.App.DTO.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.App.DTO\\DAL.App.DTO.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.App.DTO\\DAL.App.DTO.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.App.DTO\\DAL.App.DTO.csproj"
             },
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.Base.EF\\DAL.Base.EF.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\DAL.Base.EF\\DAL.Base.EF.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.Base.EF\\DAL.Base.EF.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\DAL.Base.EF\\DAL.Base.EF.csproj"
             },
-            "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\rober\\Documents\\Proge\\ParcelSolution\\Models\\Models.csproj"
+            "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\rober\\Desktop\\Parcel\\ParcelSolution\\Models\\Models.csproj"
             }
           }
         }

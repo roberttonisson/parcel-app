@@ -10,3 +10,15 @@ C:\Users\rober\Documents\Proge\ParcelSolution\Domain.Base\obj\Debug\net5.0\Domai
 C:\Users\rober\Documents\Proge\ParcelSolution\Domain.Base\obj\Debug\net5.0\Domain.Base.dll
 C:\Users\rober\Documents\Proge\ParcelSolution\Domain.Base\obj\Debug\net5.0\ref\Domain.Base.dll
 C:\Users\rober\Documents\Proge\ParcelSolution\Domain.Base\obj\Debug\net5.0\Domain.Base.pdb
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\bin\Debug\net5.0\Domain.Base.deps.json
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\bin\Debug\net5.0\Domain.Base.dll
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\bin\Debug\net5.0\ref\Domain.Base.dll
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\bin\Debug\net5.0\Domain.Base.pdb
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\obj\Debug\net5.0\Domain.Base.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\obj\Debug\net5.0\Domain.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\obj\Debug\net5.0\Domain.Base.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\obj\Debug\net5.0\Domain.Base.AssemblyInfo.cs
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\obj\Debug\net5.0\Domain.Base.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\obj\Debug\net5.0\Domain.Base.dll
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\obj\Debug\net5.0\ref\Domain.Base.dll
+C:\Users\rober\Desktop\Parcel\ParcelSolution\Domain.Base\obj\Debug\net5.0\Domain.Base.pdb
