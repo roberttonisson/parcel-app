@@ -6,6 +6,12 @@ This repository is home to my test assignement to Helmes.
 
 This project is made in two parts. Back-End in .NET5.0 and front-end in React framework using Node.js LTS. Make sure to have these installed, also database connection is required.
 
+Download or clone this repository.
+
+```bash
+ git clone https://github.com/roberttonisson/parcel-app.git
+```
+
 # Getting back-end service to work
 
 In commandNavigate to solution folder at
@@ -88,4 +94,26 @@ npm start
 
 Default localhost is at http://localhost:3000/
 
-#About the project
+#About the project in humanly way
+Busy times but I tried my best with the little time I had. Hope all will work correctly(doubt).
+##Front-End
+
+Simple parcel shipment app. You can see all shipments with all the details on main page. Also you can create new shipments there. On the editing page you can modify shipment, it's bags and add unassigned parcels. On parcels page you can create new parcels that will wait till they get put into bag/shipment.
+
+##Back-end in .NET5.0
+First time I used it since they merged.
+
+Backend is quite big considering how small the test assignment was. That is because I used a base from my previous project as an starting point.
+It uses repository pattern and is divided into different layers - domain, Data Access Layer(DAL), Business Logic Layer(BLL) and API itself.
+
+Domain has all the models/entities with annotations. Used to generate migrations. 
+
+DAL is the layer that commmunicates easily with the data source. It gets the data you ask for and maps it into usable entities/collections for programming environment. No hardcore business logic, just communication between DB and DAL. Every data repository inherits base methods as Save, Delete, Get etc., so we don't have to implement same basic operations for all of our entities. DAL is very much reusable in other applications.
+
+Next Layer is BLL, where all the application spesific data manipulating happens. It does all the calculations/logic that is neccessary and maps it into Data Access Object for the API/DAL. It keeps the controllers very clean and avoids code duplication.
+
+And then is the API and its controllers, pure request only, no unneccessary logic. Also Swagger support.
+
+There is also Authntication/Identity support with jwt that I grabbed from my previous project, but I didn't make use of it for this assignment.
+
+Robert Tõnisson 2021
