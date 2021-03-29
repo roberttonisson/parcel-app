@@ -4,7 +4,7 @@ This repository is home to my test assignement to Helmes.
 
 ## Requierments
 
-This project is made in two parts. Back-End in .NET5.0 and front-end in React framework using Node.js LTS. Make sure to have these installed, also database connection is required.
+This project is made in two parts. Back-End in .NET5.0 and front-end in React.ts framework using Node.js LTS. Make sure to have these installed, also database connection is required.
 
 Download or clone this repository.
 
@@ -94,13 +94,16 @@ npm start
 
 Default localhost is at http://localhost:3000/
 
-#About the project in humanly way
+# About the project in humanly way
+
 Busy times but I tried my best with the little time I had. Hope all will work correctly(doubt).
-##Front-End
+
+## Front-End + react.ts
 
 Simple parcel shipment app. You can see all shipments with all the details on main page. Also you can create new shipments there. On the editing page you can modify shipment, it's bags and add unassigned parcels. On parcels page you can create new parcels that will wait till they get put into bag/shipment.
 
-##Back-end in .NET5.0
+## Back-end + .NET5.0
+
 First time I used it since they merged.
 
 Backend is quite big considering how small the test assignment was. That is because I used a base from my previous project as an starting point.
